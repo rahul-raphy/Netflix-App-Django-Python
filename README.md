@@ -35,9 +35,7 @@ In order to access the admin panel on "/admin"
 ## Run
 
 
-- SQLITE_URI: this is the connection string of your Sqlite database.
-
-Now you can run "python manage.py runserver" in the terminal and the application should work.
+You can run "python manage.py runserver" in the terminal and the application should work.
 
 ## Technology
 
